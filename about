@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>White Water Rafting </title>
+        <link rel="stylesheet" href="styles/rafting.css">
+    </head>
+    <body>
+        <header>
+            <img src="images/Picture1.jpg" alt="Logo"> 
+            <nav>
+                <a href="#">Home</a>
+                <a href="#">About Us</a>
+                <a href="#">trips</a>
+                <a href="#">Contact Us</a>
+            </nav>
+        </header>
+        <main>
+           <div class="hero">
+             <img src="images/pp.jpg" alt="hero image">
+           
+           <h1>WHITEWATER RAFTING</h1>
+           <article>
+            <p>Our Mission is to provide entralling white water rafting services. <br/>Apart from entralling rafting, We guarantee our clients a memorable experience that they will never forget. 
+                <br/>Belief is a reality to us, thus we make our clients dream come true through our adventurous tours, and master class services.
+                </p><img src="images/picture3.jpg" style="float: right;">  
+           </article>
+        </div>
+           <section>
+            <h2>History</h2>
+            <div class="history">
+                <p>Whitewater rafting company was founded in 1998 by Prince Dube who is said to be one of the greatest rafters in the ealy 2000s. Having had fun with the sport Prince Dube saw it fit to open his company 21 May 2000. 
+                    the Company has since enjoyed a vast amount of market share ever since </p>    
+                <img src="../images/profile.jpg">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla incidunt, repudiandae quasi voluptatum sunt vitae quibusdam dolorem aliquam itaque fugit. Velit debitis nihil id ipsam ipsa voluptatem voluptatum, fugit optio.</p> 
+            </div>
+           </section>
+        <div>
+            <section>
+            <h2>Adventure Awaits You!</h2>  
+            <div class="adventure awaits you">
+                <img src="images/picture4.jpg" height ="200" alt="White Water Rafting">
+                <img src="images/picture5.jpg" height ="200" alt="White Water Rafting">
+                <img src="images/picture6.jpg" height= "200"alt="White Water Rafting">
+                <img src="images/picture7.jpg" height= "200"alt="White Water Rafting">
+                <img src="images/picture8.jpg" height="200" alt="White Water Rafting">
+
+            </section>  
+        </div>
+           
+        </main>
+        <footer>
+            <p>&copy;2023🌴 Whitewater Rafting 🌴 Prince Dube 🌴 </p>
+            <nav class="sociallinks">
+            <a href="https://facebook.com">
+            <img src="images/fb.png" height= "100" alt="Facebook">
+            </a>
+            <a href="https://twitter.com">
+            <img src="images/tw.png" height= "100"nalt="Twitter">
+            </a>
+             <a href="https://instagram.com">
+            <img src="images/app.png" height="100" alt="Instagram">
+            </a>
+            </nav>
+        </footer>
+    </body>
+
++<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <meta name=" viewport" content="width=device-width, initial-scale=1.0">
+        <title> Rafting Site Plan │ Prince Dube</title>
+        <meta name="description" content="The rafting site plan includes the site purpose, the target audience, branding information and a style guide for the course project.">
+        <meta name = "author" content="Prince Dube">
+        <link rel="stylesheet" href="styles/site-plan-rafting.css">
+    </head>
+    <body>
+        <header>
+            <h1>WHITEWATER RAFTING</h1>
+            <div>Prince Dube</div>
+        </header>
+        <main>
+            <h2>Overview</h2>
+            <h3>Purpose</h3>
+            <P>Our Purpose is to ensure that our clients have easy way of accesing information about our spectacular vacation or quick getaway that they will treasure forever..</P>
+            <h3>Audience</h3>
+            <p>Who are the targeted customers? Our guests need to be active and physical fit for our wilderness trips.
+               What do they except to find? Our Rafting trips, are embedded with a lot of exposure tours such as snorkelling, Northern beaming lights and more time at Umlazibeach.
+               How will my audience usually access my site (desktop, laptop, mobile device)? Our Guest can download our app from their phone to get access to our site and also they can vist our website on their computers</p>
+
+            <h2> Branding</h2>
+            <h3>Website Logo</h3>
+            <img src = "images/Picture1.jpg" alt="Rafting Site Logo">
+                
+            <h2>Style Guide</h2>
+
+            <h3> Color Palette</h3>
+            
+            <p>primary-color: #725752;
+               secondary-color: #878E88;
+               accent1-color: #96C0B7;
+               accent2-color: #D4DFC7;
+                
+               Palette URL: <a href="https://coolors.co/725752-878e88-96c0b7-d4dfc7-fef6c9" target="blank">https://coolors.co/725752-878e88-96c0b7-d4dfc7-fef6c9</a> 
+            </p>
+            <h3>Typography</h3>
+            <h4>Headings Example Font</h4>
+            <h4> Normal Text/Paragraph Example Font</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt nostrum accusamus molestias?</p>
+            <h4>Colored Callout Example Font </h4>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto labore tempore molestiae!</p>
+            <h3>Naigation</h3>
+            <nav>
+            <a href="#">Home</a>
+            <a href="#">Page 2</a>
+            <a href="about-us.html">about-us</a>
+            </nav>
+            <h2>Wireframes</h2>
+            <h3>Home Page Wireframe</h3>
+            <img src="https://byui-wdd.github.io/wdd130/rafting_images/wireframe_home.png" alt="Recquired Home Page Wireframe Design">
+            <h3>Page 2 Wireframe</h3>
+        </main>
+            <footer>
+                <p>©2024 🌴 Rafting Site Document 🌴 Prince Dube 🌴 WDD 130</p>
+            </footer>
+        
+    </body>
+
+</html>
